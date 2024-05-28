@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Playing **OGRival.org**","Made by Pie"];
 
 
 let currentIndex = 0;
